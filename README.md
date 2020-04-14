@@ -9,26 +9,26 @@ My credentials are a Bachelor's degree in information systems through the Federa
 **Background in:** Python, Computer Vision, Machine Learning, Deep Learning, Image Processing.
 
 **complementary courses:**
-*[UFPI]* Deep Learning: An Introduction to Convolutional Networks.
-*[UFPI]* Developing RESTFul Applications Using Node.js.
-*[UFPI]* Digital Processing of Medical Images with Python and Opencv.
-*[UFPI]* High Availability Cluster with Docker Swarm.
-*[UFPI]* Deep Learnig in images: applying CNNS with Keras and Tensorflow.
-*[UFPI]* Processing and analysis of arcustic signals in usarban cenaruis with convnets.
+* UFPI - Deep Learning: An Introduction to Convolutional Networks.
+* UFPI - Developing RESTFul Applications Using Node.js.
+* UFPI - Digital Processing of Medical Images with Python and Opencv.
+* UFPI - High Availability Cluster with Docker Swarm.
+* UFPI - Deep Learnig in images: applying CNNS with Keras and Tensorflow.
+* UFPI - Processing and analysis of arcustic signals in usarban cenaruis with convnets.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/ryan-sales-2b10141a6)
 
 ## Repositories:
 
-* **Neural Networks programmed in python, only with the numpy:** https://github.com/SalesRyan/Neural-Network-MNIST-Dataset
-* **Deep Learning with the sequential model of the keras library:** https://github.com/SalesRyan/Deep-learning-using-keras
-* **VGG16 fine tuning for multiclass classification:** https://github.com/SalesRyan/VGG16-fine-tuning-for-multiclass-classification
-* **LBP and PCA for classification of medical images:** https://github.com/SalesRyan/LBP-and-PCA-for-classification-of-medical-images
-* **Random Forest for binary classification with GLCM:** https://github.com/SalesRyan/Random-Forest-for-binary-classification-with-GLCM-and-PCA
-* **ResNet50 finetuning for multiclass classification:** https://github.com/SalesRyan/ResNet50-fine-tuning-for-multiclass-classification-
-* **Xception fine tuning for multiclass classification:** https://github.com/SalesRyan/Xception-fine-tuning-for-multiclass-classification-
-* **Phylogenetic indices and random forests:** https://github.com/SalesRyan/Phylogenetic-indices-and-random-forests
+* **Neural Networks programmed in python, only with the numpy:** https://bit.ly/3baHI8I
+* **Deep Learning with the sequential model of the keras library:** https://bit.ly/3el9GR9
+* **VGG16 fine tuning for multiclass classification:** https://bit.ly/34CgmWs
+* **LBP and PCA for classification of medical images:** https://bit.ly/2yVM59i
+* **Random Forest for binary classification with GLCM:** https://bit.ly/34FZ0bd
+* **ResNet50 finetuning for multiclass classification:** https://bit.ly/2VrVAEN
+* **Xception fine tuning for multiclass classification:** https://bit.ly/3elIaTn
+* **Phylogenetic indices and random forests:** https://bit.ly/34DRb5L
 ---
 
 
