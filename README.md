@@ -1,4 +1,8 @@
-﻿# Ryan Sales
+﻿<p align="center">
+  <img src="Banner.png" >
+</p>
+
+# Ryan Sales
 <sub>Information Systems student at UFPI.</sub>
 
 As a member of the research laboratory applied to computer vision and intelligence, I combine analytical skills, the ability to work in team environments and attention to detail, After spending the past few years applying vision and computational intelligence techniques to real-world problems,
