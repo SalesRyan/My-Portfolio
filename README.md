@@ -21,7 +21,9 @@ My credentials are a Bachelor's degree in information systems through the Federa
 * UFPI - Processing and analysis of arcustic signals in usarban cenaruis with convnets.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/ryan-sales-2b10141a6)
+- [*LinkedIn*](https://www.linkedin.com/in/ryan-sales-2b10141a6/)
+- [*Lattes*](http://lattes.cnpq.br/6944781068896428)
+- [*Instagram*](https://www.instagram.com/sales.ryann/?hl=pt-br)
 
 ## Repositories:
 
